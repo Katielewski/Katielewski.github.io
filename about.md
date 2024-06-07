@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me!
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+Hi, My name is Katherine Lewandowski and I am a Sophmore at Loyola University Maryland. I am still undeclared but I am a prospective History/writing major! 
