@@ -4,4 +4,4 @@ title: About Me!
 permalink: /about
 ---
 
-Hi, My name is Katherine Lewandowski and I am a Sophmore at Loyola University Maryland. I am still undeclared but I am a prospective History/writing major! 
+This blog commemorates Katie's experience at the Digital Humanities Summer Institute in Victoria, Canada in June 2024. This experience was made possible by a fellowship offered through the Center for the Humanities at Loyola University Maryland.
